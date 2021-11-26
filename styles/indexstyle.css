@@ -1,0 +1,49 @@
+div{
+	border: solid black 1px;
+	border-radius: 4px;
+	position: absolute;
+	top: 0;
+	left: 0;
+
+}
+
+#d1{
+	background-image:url("../Imagenes/copas.jpg");
+	width: 262px ;
+	height: 400px;
+}
+
+#d2{
+	background-image:url("../Imagenes/as.png");
+	width: 260px ;
+	height: 400px;
+	left: 50px;
+	top: 20px;
+	z-index: -1;
+}
+#d3{
+	background-image:url("../Imagenes/7copas.jpg");
+	width: 262px ;
+	height: 400px;
+	z-index: -2;
+	left: 100px;
+	top: 30px;
+}
+
+#d4{
+	background-image:url("../Imagenes/caballo.png");
+	width: 260px ;
+	height: 400px;
+	z-index: -3;
+	left: 150px;
+	top: 40px;
+}
+
+#d5{
+	background-image:url("../Imagenes/espada.png");
+	width: 260px ;
+	height: 400px;
+	z-index: -4;
+	left: 200px;
+	top: 50px;
+}
